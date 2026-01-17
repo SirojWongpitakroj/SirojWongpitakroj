@@ -24,13 +24,16 @@ March, Learning Django and Sit for AWS Cloud Certificate Exam
 
 ## 📫 How to reach me:
 
-swongpitakroj24@gmail.com
+My official email: swongpitakroj24@gmail.com
+
   
-##⚡ Fun fact:
+## ⚡ Fun fact:
 
 I love reading self-improvement books (currently reading Hyperfocus by Chris Bailey)
 
 I plays Rubik's Cube to rechard my brain after deep focus session (avg:12.997, pb: 9.789) 
+
+In mid-2025, I exercise every week including cardio, strength training, and HIIT. Gradually training my cardiovascular endurance (VO2 MAX)
 
 <!--
 **SirojWongpitakroj/SirojWongpitakroj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
