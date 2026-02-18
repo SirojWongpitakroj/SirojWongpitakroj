@@ -8,7 +8,7 @@ Until nearing the end of 2025, when I got assigned by my professor to create a w
 
 Moreover, in my University career I chose Data Science path and I am more confident in Python Language, Therefore I opt to mainly use Python as much as possible. 
 
-Currently I focus on Front-end Development first. My tech stack will be HTML, CSS, Javascript(React), Python(Django).  
+Currently I fixate on front-end development
 
 ## 🌱 I’m currently learning on Front-end Development
 
@@ -16,9 +16,9 @@ Medium-Term Goal:
 
 For the month of January, I dedicated myself to reinforce the javascript problem-solving
 
-February, it will be the month of React and project-based learning
+February, it will be the month of Front-end Mentor, project-based learning to enhance fundamentals of HTML, CSS and Javascript
 
-March, Learning Django and Sit for AWS Cloud Certificate Exam 
+March, Learning Front-end Framework (yet to decide) and Sit for AWS Cloud Certificate Exam 
 
 
 
