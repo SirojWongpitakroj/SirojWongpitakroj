@@ -1,68 +1,72 @@
-# Siroj Wongpitakroj
- 
-**3rd-year Computer Engineering Student · Thailand**
- 
-[![Email](https://img.shields.io/badge/Email-swongpitakroj24%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:swongpitakroj24@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SirojWongpitakroj-181717?style=flat-square&logo=github)](https://github.com/SirojWongpitakroj)
-![Location](https://img.shields.io/badge/Location-Thailand-green?style=flat-square)
- 
+<!-- ===================================================== -->
+<!--   GitHub Profile README — Siroj "Fook" Wongpitakroj   -->
+<!--   Drop this in a repo named: SirojWongpitakroj        -->
+<!-- ===================================================== -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13294E,100:08122C&height=200&section=header&text=Siroj%20Wongpitakroj&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/SirojWongpitakroj">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=ffffff&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Backend+Engineer" alt="Typing SVG" />
+  </a>
+</div>
+
 ---
- 
-## About
- 
-I am an ambitious builder focused on **Engineering Security** and **Applied Cryptography** backend.  
-My approach favors reasoning about systems at the mathematical layer — number theory, discrete math, and protocol design — over traditional malware analysis.
- 
+
+## 🧑‍💻 About Me
+
+🎓 I'm a student developer from **Thailand** 🇹🇭 working toward becoming a **Backend Engineer**, with a deep interest in **security** and **mathematics**.
+
+- 🌊 Building **Flowcus** — a focus & productivity app made with **React + TypeScript**
+- 🔐 Focused on **security** and writing clean, well-understood code
+- 🧮 I love integrating **mathematics** into my work — currently learning **discrete mathematics**, building up from the fundamentals
+- 📺 Coding **streamer & content creator** on Twitch and YouTube
+- 🌱 Always learning in public, one line of code at a time
+
+> 🤖 **My approach to AI:** I use AI as a tool, not a crutch. I only use code I can fully understand — if I can't explain a line that AI wrote, I won't ship it. My goal is to understand *every single line*.
+
 ---
- 
-## Areas of Focus
- 
-| | |
-|---|---|
-| 🔒 **Secure Infrastructure** | Designing systems with security primitives baked in from the ground up |
-| 🔢 **Applied Cryptography** | Number theory, discrete math, and cryptographic protocol analysis |
-| ☁️ **Systems & Cloud Engineering** | Docker, cloud deployment, and production-grade backend development |
- 
----
- 
-## Technical Skills
- 
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
 **Languages**
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
- 
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css" />
+
 **Frameworks & Libraries**
- 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
- 
-**Data & Infrastructure**
- 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
- 
+
+<img src="https://skillicons.dev/icons?i=react" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,mysql" />
+
+</div>
+
 ---
- 
-## Currently Learning
- 
-> Reinforcing both engineering depth and mathematical foundations.
- 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Deployment-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Discrete Math](https://img.shields.io/badge/Discrete_Mathematics-6A5ACD?style=flat-square)
-![Number Theory](https://img.shields.io/badge/Number_Theory-6A5ACD?style=flat-square)
- 
+
+## 🔭 What I'm Working On
+
+- 🌊 Shipping the core pages of **Flowcus** — Today, Deep Session, Planner, Projects, Analytics
+- 🧮 Studying **discrete mathematics**, building up from the fundamentals
+- 📺 Streaming the build process live — come hang out!
+
 ---
- 
-## Get in Touch
- 
-I am always open to discussing **security engineering**, **cryptographic systems**, or opportunities in those spaces.
- 
-📧 [swongpitakroj24@gmail.com](mailto:swongpitakroj24@gmail.com)
+
+## 📬 Connect With Me
+
+<div align="center">
+  <a href="https://www.youtube.com/@Fook-SW"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.twitch.tv/fooksw"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+  <a href="mailto:swongpitakroj24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13294E,100:08122C&height=120&section=footer" width="100%" />
+</div>
