@@ -20,8 +20,7 @@
 🎓 I'm a student developer from **Thailand** 🇹🇭 working toward becoming a **Backend Engineer**, with a deep interest in **security** and **mathematics**.
 
 - 🌊 Building **Flowcus** — a focus & productivity app made with **React + TypeScript**
-- 🔐 Focused on **security** and writing clean, well-understood code
-- 🧮 I love integrating **mathematics** into my work — currently learning **discrete mathematics**, building up from the fundamentals
+- 🧮 I like **mathematics**
 - 📺 Coding **streamer & content creator** on Twitch and YouTube
 - 🌱 Always learning in public, one line of code at a time
 
@@ -39,7 +38,7 @@
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
 
 **Tools**
 
