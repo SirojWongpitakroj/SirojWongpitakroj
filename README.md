@@ -34,15 +34,19 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css" />
+<img src="https://skillicons.dev/icons?i=python,html,css,ts,go" />
 
-**Frameworks & Libraries**
+**FullStack**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,tailwind" />
 
-**Tools**
+**DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,mysql" />
+<img src="https://skillicons.dev/icons?i=docker,git" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws" />
 
 </div>
 
