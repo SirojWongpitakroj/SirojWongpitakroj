@@ -49,8 +49,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,html,css" />
 
-<sub>+ SQL</sub>
-
 </div>
 
 ---
