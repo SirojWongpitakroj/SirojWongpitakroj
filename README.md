@@ -17,12 +17,13 @@
 
 ## 🧑‍💻 About Me
 
-🎓 I'm a student developer from **Thailand** 🇹🇭 working toward becoming a **Backend Engineer**, with a deep interest in **security** and **mathematics**.
+🎓 I'm a student developer from **Thailand** 🇹🇭 working toward becoming a **Backend Engineer**.
 
-- 🌊 Building **Flowcus** — a focus & productivity app made with **React + TypeScript**
-- 🧮 I like **mathematics**
-- 📺 Coding **streamer & content creator** on Twitch and YouTube
-- 🌱 Always learning in public, one line of code at a time
+- ⚙️ Focused on backend development with **Go**
+- 🗄️ Interested in **databases**, **system design**, and **scalable backend systems**
+- ☁️ Exploring **cloud infrastructure** and **distributed systems**
+- 🔐 Interested in **security** and **reliable system design**
+- 🌱 Continuously improving my **backend engineering** and **computer science** fundamentals
 
 > 🤖 **My approach to AI:** I use AI as a tool, not a crutch. I only use code I can fully understand — if I can't explain a line that AI wrote, I won't ship it. My goal is to understand *every single line*.
 
@@ -32,21 +33,23 @@
 
 <div align="center">
 
-**Languages**
+**Backend Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,html,css,ts,go" />
+<img src="https://skillicons.dev/icons?i=go,nodejs,express" />
 
-**FullStack**
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,cassandra" />
 
-**DevOps**
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,git" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws" />
 
-**Database**
+**Other Languages**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,aws" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css" />
+
+<sub>+ SQL</sub>
 
 </div>
 
@@ -54,9 +57,7 @@
 
 ## 🔭 What I'm Working On
 
-- 🌊 Shipping the core pages of **Flowcus** — Today, Deep Session, Planner, Projects, Analytics
-- 🧮 Studying **discrete mathematics**, building up from the fundamentals
-- 📺 Streaming the build process live — come hang out!
+- 📄 Writing a **conference/journal paper** on **distributed systems** and **network security**
 
 ---
 
