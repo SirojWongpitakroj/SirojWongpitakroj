@@ -55,7 +55,7 @@
 
 ## 🔭 What I'm Working On
 
-- 📄 Writing a **conference/journal paper** on **distributed systems** and **network security**
+- 📄 Writing a **journal paper** pinned in the name of **MVA-PHV** on **distributed systems** and **network security**
 
 ---
 
